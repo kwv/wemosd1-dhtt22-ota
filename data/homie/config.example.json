@@ -1,0 +1,17 @@
+{
+    "name": "dht22 node",
+    "wifi": {
+      "ssid": "my wifi network",
+      "password": "my wifi password"
+    },
+    "mqtt": {
+      "host": "my mqtt host ip",
+      "auth": true,
+      "username": "my mqtt user name",
+      "password": "my mqtt password",
+      "port": 1883
+    },
+    "ota": {
+      "enabled": true
+    }
+  }
